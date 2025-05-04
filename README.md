@@ -5,6 +5,7 @@
 - 📫 How to reach me @omotaraisha@gmail.com
 - 😄 Pronouns: Her 
 - ⚡ Fun fact: I also have years of quality testing in manufacturing processes and environ 🤭 Quality is me! I am Quality🥰
+- I just successfully created a branch ... yaaayyyy !!!
 
 <!---
 omotaraisha/omotaraisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
